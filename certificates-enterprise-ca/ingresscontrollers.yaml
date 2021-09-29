@@ -7,5 +7,5 @@ metadata:
   namespace: openshift-ingress-operator
 spec:
   defaultCertificate:
-    name: <SECRET-NAME>
+    name: custom-tls-bundle
   replicas: 2

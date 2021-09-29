@@ -4,4 +4,4 @@ metadata:
   name: cluster
 spec:
   trustedCA:
-    name: <CONFIGMAP-NAME>
+    name: combined-certs

@@ -6,6 +6,6 @@ spec:
   servingCerts:
     namedCertificates:
     - names:
-      - <MASTER-API>
+      - api.ocp4.example.com
       servingCertificate:
-        name: <SECRET-NAME>
+        name: custom-tls
